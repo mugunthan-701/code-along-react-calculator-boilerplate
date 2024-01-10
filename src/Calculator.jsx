@@ -1,5 +1,5 @@
 import React, { useReducer } from 'react';
-import './Calculator.css';
+import '/Calculator.css';
 
 const ADD_INPUT = "ADD_INPUT";
 const CALCULATE = "CALCULATE";
